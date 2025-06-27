@@ -1,0 +1,14 @@
+===== VERIFICACION DE PERMISOS - MIELNICZUK ======
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x  2 vagrant vagrant 4096 Jun 27 21:24 .
+drwxr-x--- 11 vagrant vagrant 4096 Jun 27 21:49 ..
+-rw-------  1 vagrant vagrant    0 Jun 27 21:22 privado.txt
+-rw-r--r--  1 vagrant vagrant    0 Jun 27 21:24 publico.txt
+Archivos en directorio colaborativo:
+total 8
+drwxrwx---  2 root equipotrabajo 4096 Jun 27 21:33 .
+drwxrwxrwt 12 root root          4096 Jun 27 21:33 ..
+Informacion del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+
