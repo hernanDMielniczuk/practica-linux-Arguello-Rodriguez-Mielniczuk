@@ -1,0 +1,12 @@
+========== INFORMACION DE USUARIOS Y GRUPOS -- RODRIGUEZ ==========
+Usuario actual:
+vagrant
+Grupos del usuario:
+vagrant
+ID del usuario:
+uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant)
+Usuarios del sistema:
+usuario1:x:1002:1002:,,,:/home/usuario1:/bin/bash
+usuario2:x:1003:1003:,,,:/home/usuario2:/bin/bash
+usuario3:x:1004:1005:,,,:/home/usuario3:/bin/bash
+
