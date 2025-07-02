@@ -1,5 +1,5 @@
 ===== VERIFICACIÓN DE ARCHIVOS - ARGUELLO =====
-Estuutura dedirectorios creada:
+Estructura de directorios creada:
 /mnt/almacenamiento_arguello
 /mnt/almacenamiento_arguello/lost+found
 /mnt/almacenamiento_arguello/respaldos
