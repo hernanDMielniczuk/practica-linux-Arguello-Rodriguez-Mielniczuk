@@ -1,0 +1,33 @@
+===== VERIFICACION DE ARCHIVOS - MIELNICZUK =====
+Estructura de directorios creada:
+/mnt/almacenamiento_mielniczuk/
+/mnt/almacenamiento_mielniczuk/temporal
+/mnt/almacenamiento_mielniczuk/lost+found
+/mnt/almacenamiento_mielniczuk/respaldos
+/mnt/almacenamiento_mielniczuk/proyectos
+/mnt/almacenamiento_mielniczuk/proyectos/activos
+/mnt/almacenamiento_mielniczuk/proyectos/archivados
+/mnt/almacenamiento_mielniczuk/
+/mnt/almacenamiento_mielniczuk/temporal
+/mnt/almacenamiento_mielniczuk/lost+found
+/mnt/almacenamiento_mielniczuk/respaldos
+/mnt/almacenamiento_mielniczuk/proyectos
+/mnt/almacenamiento_mielniczuk/proyectos/activos
+/mnt/almacenamiento_mielniczuk/proyectos/archivados
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/temporal/documento_01.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/temporal/documento_02.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/temporal/documento_04.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/temporal/documento_03.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/temporal/documento_05.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:37 /mnt/almacenamiento_mielniczuk/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:37 /mnt/almacenamiento_mielniczuk/respaldos/documento_09.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:34 /mnt/almacenamiento_mielniczuk/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:34 /mnt/almacenamiento_mielniczuk/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:34 /mnt/almacenamiento_mielniczuk/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:34 /mnt/almacenamiento_mielniczuk/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:34 /mnt/almacenamiento_mielniczuk/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/proyectos/archivados/documento_06.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 27 Jul  1 04:32 /mnt/almacenamiento_mielniczuk/proyectos/archivados/documento_07.txt
+
