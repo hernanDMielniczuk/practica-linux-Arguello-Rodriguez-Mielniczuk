@@ -1,0 +1,5 @@
+===== VERIFICACIÓN DOCKER RUN [RODRIGUEZ] =====
+Contenedores en ejecución (docker ps):
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS     NAMES
+6dac318dcb21   nginx     "/docker-entrypoint.…"   22 seconds ago   Up 20 seconds   80/tcp    mi-nginx
+
